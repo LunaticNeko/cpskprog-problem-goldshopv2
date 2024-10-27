@@ -82,8 +82,8 @@ See also: [[https://docs.python.org/3/library/typing.html]]
    1  |   10  | doctest (straightforward) (-1 per failed test, min 0)
    2  |   30  | pytest 1 (Gold class)
    3  |   20  | pytest 2 (GoldSet class)
-   4  |   10  | pytest 3 (Error checking in both classes)
-   5  |   10  | pytest 4 (Extra credit)
+   4  |   20  | pytest 3 (Error checking in both classes)
+   5  |    0  | pytest 4 (Extra credit to be used later in evaluation)
    6  |   10  | PEP 8 (automated linter)
    7  |   10  | Repository Correctness (real name, at least 2 commits)
 
